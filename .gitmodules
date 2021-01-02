@@ -1,6 +1,6 @@
 [submodule "preamble"]
 	path = preamble
-	url = kannab98:kannab98/latex-preamble
+	url = https://github.com/kannab98/latex-preamble
 [submodule "gnss-sdr"]
 	path = gnss-sdr
 	url = https://github.com/gnss-sdr/gnss-sdr
